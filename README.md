@@ -68,7 +68,7 @@ Este dashboard oferece uma análise profunda e executiva dos acidentes de trâns
 O dashboard está disponível para acesso público sem necessidade de autenticação:
 
 ```
-https://https://prfdash24-m6p7qfbr.manus.space
+https://prfdash24-m6p7qfbr.manus.space
 ```
 
 ### Instalação Local

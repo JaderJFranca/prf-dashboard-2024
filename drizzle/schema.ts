@@ -25,4 +25,18 @@ export const users = mysqlTable("users", {
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
 
-// TODO: Add your tables here
+// Tabela para armazenar dados de acidentes agregados por UF
+export const accidentStats = mysqlTable("accident_stats", {
+  id: int("id").autoincrement().primaryKey(),
+  uf: varchar("uf", { length: 2 }).notNull().unique(),
+  totalAccidents: int("total_accidents").notNull(),
+  totalDeaths: int("total_deaths").notNull(),
+  totalSevereInjuries: int("total_severe_injuries").notNull(),
+  totalMinorInjuries: int("total_minor_injuries").notNull(),
+  totalUnharmed: int("total_unharmed").notNull(),
+  dataJson: text("data_json").notNull(), // Armazena JSON com detalhes por causa, dia, etc
+  updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
+});
+
+export type AccidentStats = typeof accidentStats.$inferSelect;
+export type InsertAccidentStats = typeof accidentStats.$inferInsert;

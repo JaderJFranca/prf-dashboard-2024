@@ -1,0 +1,8854 @@
+{
+  "total_acidentes": 73156,
+  "total_mortos": 6160,
+  "total_feridos_graves": 20344,
+  "total_feridos_leves": 64182,
+  "total_ilesos": 76675,
+  "ufs": {
+    "ES": {
+      "total_acidentes": 2395,
+      "total_mortos": 176,
+      "total_feridos_graves": 815,
+      "total_feridos_leves": 2174,
+      "total_ilesos": 2079
+    },
+    "PI": {
+      "total_acidentes": 1520,
+      "total_mortos": 171,
+      "total_feridos_graves": 617,
+      "total_feridos_leves": 1045,
+      "total_ilesos": 1435
+    },
+    "BA": {
+      "total_acidentes": 4151,
+      "total_mortos": 619,
+      "total_feridos_graves": 1509,
+      "total_feridos_leves": 3843,
+      "total_ilesos": 4312
+    },
+    "SE": {
+      "total_acidentes": 597,
+      "total_mortos": 59,
+      "total_feridos_graves": 198,
+      "total_feridos_leves": 477,
+      "total_ilesos": 526
+    },
+    "MT": {
+      "total_acidentes": 2554,
+      "total_mortos": 244,
+      "total_feridos_graves": 683,
+      "total_feridos_leves": 2034,
+      "total_ilesos": 2816
+    },
+    "MG": {
+      "total_acidentes": 9296,
+      "total_mortos": 794,
+      "total_feridos_graves": 2763,
+      "total_feridos_leves": 8993,
+      "total_ilesos": 9271
+    },
+    "SP": {
+      "total_acidentes": 4883,
+      "total_mortos": 226,
+      "total_feridos_graves": 832,
+      "total_feridos_leves": 4501,
+      "total_ilesos": 5024
+    },
+    "PR": {
+      "total_acidentes": 7576,
+      "total_mortos": 607,
+      "total_feridos_graves": 1944,
+      "total_feridos_leves": 6512,
+      "total_ilesos": 8372
+    },
+    "MS": {
+      "total_acidentes": 1803,
+      "total_mortos": 182,
+      "total_feridos_graves": 547,
+      "total_feridos_leves": 1393,
+      "total_ilesos": 2092
+    },
+    "RS": {
+      "total_acidentes": 5206,
+      "total_mortos": 346,
+      "total_feridos_graves": 1138,
+      "total_feridos_leves": 4592,
+      "total_ilesos": 6129
+    },
+    "PA": {
+      "total_acidentes": 970,
+      "total_mortos": 216,
+      "total_feridos_graves": 394,
+      "total_feridos_leves": 645,
+      "total_ilesos": 1035
+    },
+    "GO": {
+      "total_acidentes": 3305,
+      "total_mortos": 297,
+      "total_feridos_graves": 911,
+      "total_feridos_leves": 2684,
+      "total_ilesos": 3705
+    },
+    "RJ": {
+      "total_acidentes": 6389,
+      "total_mortos": 333,
+      "total_feridos_graves": 1279,
+      "total_feridos_leves": 6269,
+      "total_ilesos": 6691
+    },
+    "PB": {
+      "total_acidentes": 1920,
+      "total_mortos": 134,
+      "total_feridos_graves": 623,
+      "total_feridos_leves": 1578,
+      "total_ilesos": 1667
+    },
+    "MA": {
+      "total_acidentes": 1138,
+      "total_mortos": 280,
+      "total_feridos_graves": 484,
+      "total_feridos_leves": 720,
+      "total_ilesos": 1259
+    },
+    "SC": {
+      "total_acidentes": 8381,
+      "total_mortos": 415,
+      "total_feridos_graves": 2017,
+      "total_feridos_leves": 7518,
+      "total_ilesos": 8611
+    },
+    "PE": {
+      "total_acidentes": 3230,
+      "total_mortos": 312,
+      "total_feridos_graves": 1146,
+      "total_feridos_leves": 2435,
+      "total_ilesos": 3177
+    },
+    "TO": {
+      "total_acidentes": 735,
+      "total_mortos": 124,
+      "total_feridos_graves": 257,
+      "total_feridos_leves": 600,
+      "total_ilesos": 967
+    },
+    "AL": {
+      "total_acidentes": 712,
+      "total_mortos": 97,
+      "total_feridos_graves": 274,
+      "total_feridos_leves": 529,
+      "total_ilesos": 701
+    },
+    "RO": {
+      "total_acidentes": 1483,
+      "total_mortos": 111,
+      "total_feridos_graves": 439,
+      "total_feridos_leves": 1297,
+      "total_ilesos": 1648
+    },
+    "CE": {
+      "total_acidentes": 1500,
+      "total_mortos": 185,
+      "total_feridos_graves": 530,
+      "total_feridos_leves": 1205,
+      "total_ilesos": 1420
+    },
+    "RN": {
+      "total_acidentes": 1606,
+      "total_mortos": 118,
+      "total_feridos_graves": 490,
+      "total_feridos_leves": 1416,
+      "total_ilesos": 1543
+    },
+    "DF": {
+      "total_acidentes": 1056,
+      "total_mortos": 28,
+      "total_feridos_graves": 195,
+      "total_feridos_leves": 948,
+      "total_ilesos": 1308
+    },
+    "AM": {
+      "total_acidentes": 169,
+      "total_mortos": 26,
+      "total_feridos_graves": 50,
+      "total_feridos_leves": 203,
+      "total_ilesos": 313
+    },
+    "AC": {
+      "total_acidentes": 287,
+      "total_mortos": 20,
+      "total_feridos_graves": 89,
+      "total_feridos_leves": 268,
+      "total_ilesos": 291
+    },
+    "RR": {
+      "total_acidentes": 135,
+      "total_mortos": 29,
+      "total_feridos_graves": 68,
+      "total_feridos_leves": 179,
+      "total_ilesos": 129
+    },
+    "AP": {
+      "total_acidentes": 159,
+      "total_mortos": 11,
+      "total_feridos_graves": 52,
+      "total_feridos_leves": 124,
+      "total_ilesos": 154
+    }
+  },
+  "causas_por_uf": {
+    "ES": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 321
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 317
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 269
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 169
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 137
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 126
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 104
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 103
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 100
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 81
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 60
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 58
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 55
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 53
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 51
+      },
+      {
+        "causa": "Chuva",
+        "count": 31
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 31
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 31
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 31
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 28
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 22
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 17
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 15
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 14
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 13
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 12
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 11
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 11
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 11
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 11
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 11
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 10
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 10
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 8
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 8
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 5
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 4
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 3
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 3
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 3
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 3
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 2
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 2
+      },
+      {
+        "causa": "Neblina",
+        "count": 2
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 2
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 2
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 2
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 2
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 1
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Redutor de velocidade em desacordo",
+        "count": 1
+      }
+    ],
+    "PI": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 285
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 195
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 147
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 100
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 93
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 87
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 69
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 68
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 50
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 41
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 37
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 30
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 27
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 25
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 24
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 24
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 21
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 20
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 18
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 15
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 12
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 10
+      },
+      {
+        "causa": "Chuva",
+        "count": 10
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 9
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 9
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 9
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 8
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 8
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 7
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 6
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 6
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 6
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 6
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 4
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 4
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 3
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 2
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 2
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 2
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 2
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 1
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 1
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 1
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 1
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      }
+    ],
+    "BA": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 528
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 421
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 416
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 301
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 251
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 218
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 218
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 207
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 201
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 189
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 135
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 104
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 76
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 75
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 64
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 63
+      },
+      {
+        "causa": "Chuva",
+        "count": 58
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 46
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 44
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 43
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 32
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 31
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 29
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 29
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 28
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 26
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 25
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 24
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 23
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 22
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 22
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 21
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 21
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 18
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 16
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 15
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 15
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 15
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 10
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 7
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 6
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 6
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 6
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 5
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 5
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 4
+      },
+      {
+        "causa": "Neblina",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 3
+      },
+      {
+        "causa": "Fumaça",
+        "count": 2
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 2
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 2
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 1
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 1
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Faróis desregulados",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 1
+      }
+    ],
+    "SE": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 64
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 61
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 59
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 57
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 51
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 34
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 31
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 29
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 20
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 19
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 16
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 12
+      },
+      {
+        "causa": "Chuva",
+        "count": 12
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 12
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 11
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 9
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 8
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 8
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 7
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 6
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 5
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 5
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 5
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 5
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 4
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 4
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 3
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 3
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 3
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 3
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 3
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 2
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 2
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 1
+      },
+      {
+        "causa": "Faróis desregulados",
+        "count": 1
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 1
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização encoberta",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 1
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 1
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 1
+      }
+    ],
+    "MT": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 444
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 390
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 277
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 144
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 143
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 120
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 106
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 96
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 84
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 82
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 76
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 60
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 40
+      },
+      {
+        "causa": "Chuva",
+        "count": 39
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 37
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 35
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 33
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 30
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 28
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 27
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 20
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 17
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 16
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 14
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 14
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 13
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 13
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 12
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 12
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 11
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 11
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 9
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 9
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 8
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 8
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 7
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 7
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 6
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 5
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 5
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 4
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 4
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 3
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 3
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 3
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 3
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 3
+      },
+      {
+        "causa": "Fumaça",
+        "count": 3
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 3
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 3
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Neblina",
+        "count": 1
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 1
+      },
+      {
+        "causa": "Faróis desregulados",
+        "count": 1
+      },
+      {
+        "causa": "Redutor de velocidade em desacordo",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      }
+    ],
+    "MG": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 1552
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 1199
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 1132
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 627
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 532
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 402
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 402
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 394
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 348
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 284
+      },
+      {
+        "causa": "Chuva",
+        "count": 234
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 211
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 167
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 131
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 124
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 119
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 108
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 101
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 99
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 90
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 82
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 80
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 72
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 68
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 66
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 59
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 57
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 50
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 42
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 42
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 41
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 37
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 32
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 30
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 26
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 26
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 22
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 21
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 19
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 16
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 14
+      },
+      {
+        "causa": "Neblina",
+        "count": 12
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 12
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 12
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 11
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 11
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 11
+      },
+      {
+        "causa": "Fumaça",
+        "count": 10
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 9
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 8
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 8
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 8
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 6
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 5
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 4
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 3
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 3
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 2
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Sistema de drenagem ineficiente",
+        "count": 1
+      }
+    ],
+    "SP": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 1279
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 879
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 316
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 263
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 251
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 244
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 225
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 166
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 166
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 120
+      },
+      {
+        "causa": "Chuva",
+        "count": 94
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 88
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 59
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 56
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 49
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 47
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 43
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 42
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 41
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 35
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 35
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 33
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 32
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 28
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 26
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 23
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 23
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 21
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 20
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 16
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 14
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 13
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 13
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 13
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 10
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 9
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 8
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 8
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 7
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 7
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 7
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 6
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 6
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 5
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 4
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 4
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 3
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 3
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 3
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 3
+      },
+      {
+        "causa": "Neblina",
+        "count": 3
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 3
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 2
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 2
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 2
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Faróis desregulados",
+        "count": 1
+      }
+    ],
+    "PR": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 1281
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 1048
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 675
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 649
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 445
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 407
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 396
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 341
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 218
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 177
+      },
+      {
+        "causa": "Chuva",
+        "count": 171
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 169
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 161
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 160
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 129
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 74
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 69
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 69
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 68
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 66
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 63
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 61
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 59
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 55
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 42
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 39
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 38
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 38
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 38
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 36
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 25
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 24
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 23
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 22
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 20
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 20
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 20
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 19
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 18
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 18
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 17
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 16
+      },
+      {
+        "causa": "Neblina",
+        "count": 15
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 11
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 8
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 7
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 6
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 6
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 6
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 3
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 3
+      },
+      {
+        "causa": "Fumaça",
+        "count": 2
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 2
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Sistema de drenagem ineficiente",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      }
+    ],
+    "MS": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 350
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 276
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 204
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 129
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 129
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 91
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 66
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 57
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 49
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 49
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 42
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 40
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 39
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 33
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 22
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 22
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 14
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 14
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 13
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 13
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 11
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 11
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 10
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 9
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 9
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 9
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 9
+      },
+      {
+        "causa": "Chuva",
+        "count": 8
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 7
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 7
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 6
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 5
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 5
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 5
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 5
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 4
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 3
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 3
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 2
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 2
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 1
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 1
+      }
+    ],
+    "RS": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 780
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 746
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 679
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 369
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 291
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 239
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 224
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 224
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 191
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 184
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 143
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 103
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 90
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 79
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 70
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 59
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 53
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 52
+      },
+      {
+        "causa": "Chuva",
+        "count": 46
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 41
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 40
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 38
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 38
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 37
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 34
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 26
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 23
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 22
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 20
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 19
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 19
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 19
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 17
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 16
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 15
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 15
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 14
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 13
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 11
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 11
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 9
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 8
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 8
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 8
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 7
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 7
+      },
+      {
+        "causa": "Neblina",
+        "count": 6
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 5
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 5
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 4
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 4
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 4
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 4
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 4
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 3
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 2
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 2
+      },
+      {
+        "causa": "Fumaça",
+        "count": 2
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 1
+      }
+    ],
+    "PA": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 178
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 166
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 107
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 82
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 58
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 48
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 41
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 38
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 37
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 24
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 21
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 18
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 12
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 10
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 7
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 7
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 7
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 7
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 6
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 6
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 6
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 6
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 5
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 4
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 4
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 4
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 3
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 3
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 3
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 3
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 3
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 3
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 3
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 3
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 2
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 2
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Chuva",
+        "count": 1
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 1
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização encoberta",
+        "count": 1
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 1
+      }
+    ],
+    "GO": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 478
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 477
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 269
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 260
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 201
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 198
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 185
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 164
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 161
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 85
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 83
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 71
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 68
+      },
+      {
+        "causa": "Chuva",
+        "count": 60
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 43
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 39
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 38
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 34
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 28
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 25
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 23
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 23
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 21
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 20
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 19
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 17
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 16
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 15
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 15
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 12
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 11
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 10
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 10
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 10
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 9
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 9
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 9
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 9
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 7
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 7
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 6
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 6
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 6
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 5
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 5
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 4
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 4
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 4
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 3
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 3
+      },
+      {
+        "causa": "Neblina",
+        "count": 3
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 2
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Sistema de drenagem ineficiente",
+        "count": 1
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 1
+      }
+    ],
+    "RJ": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 1060
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 1022
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 456
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 399
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 389
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 351
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 327
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 196
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 173
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 162
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 148
+      },
+      {
+        "causa": "Chuva",
+        "count": 145
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 141
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 128
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 109
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 97
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 95
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 90
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 82
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 70
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 63
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 63
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 51
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 49
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 48
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 42
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 40
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 39
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 37
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 28
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 26
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 25
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 25
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 22
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 18
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 18
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 17
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 17
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 13
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 12
+      },
+      {
+        "causa": "Fumaça",
+        "count": 10
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 9
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 8
+      },
+      {
+        "causa": "Neblina",
+        "count": 7
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 5
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 5
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 4
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 4
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 4
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 3
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 3
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 3
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 2
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 2
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Sistema de drenagem ineficiente",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      }
+    ],
+    "PB": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 320
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 242
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 183
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 154
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 117
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 106
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 88
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 79
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 70
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 60
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 57
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 41
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 36
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 29
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 26
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 25
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 23
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 21
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 20
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 17
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 17
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 16
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 15
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 14
+      },
+      {
+        "causa": "Chuva",
+        "count": 13
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 10
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 10
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 9
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 8
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 8
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 7
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 7
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 6
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 5
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 5
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 5
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 5
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 5
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 4
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 4
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 4
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 4
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 4
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 4
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 3
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 3
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 2
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Redutor de velocidade em desacordo",
+        "count": 1
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 1
+      }
+    ],
+    "MA": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 151
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 147
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 137
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 101
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 80
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 68
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 61
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 55
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 31
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 29
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 28
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 22
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 21
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 17
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 16
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 15
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 13
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 12
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 10
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 10
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 10
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 10
+      },
+      {
+        "causa": "Chuva",
+        "count": 9
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 9
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 7
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 5
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 5
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 5
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 5
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 4
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 3
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 3
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 3
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 3
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 3
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 2
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 2
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Neblina",
+        "count": 1
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 1
+      }
+    ],
+    "SC": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 1338
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 1067
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 900
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 596
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 557
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 545
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 496
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 303
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 303
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 293
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 276
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 175
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 174
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 135
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 114
+      },
+      {
+        "causa": "Chuva",
+        "count": 113
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 96
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 95
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 64
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 62
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 54
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 51
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 41
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 38
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 38
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 35
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 35
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 34
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 29
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 29
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 24
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 24
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 22
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 21
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 19
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 19
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 18
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 16
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 16
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 13
+      },
+      {
+        "causa": "Neblina",
+        "count": 11
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 9
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 9
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 8
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 7
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 7
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 7
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 6
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 6
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 6
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 5
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 5
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 4
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 3
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 3
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 2
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      }
+    ],
+    "PE": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 438
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 388
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 359
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 279
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 267
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 154
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 152
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 146
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 105
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 83
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 66
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 65
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 60
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 50
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 45
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 43
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 42
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 42
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 32
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 31
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 28
+      },
+      {
+        "causa": "Chuva",
+        "count": 27
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 23
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 21
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 21
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 19
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 18
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 17
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 17
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 16
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 15
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 14
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 14
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 12
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 12
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 11
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 11
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 10
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 9
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 7
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 6
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 5
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 5
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 5
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 5
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 5
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 3
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 3
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 3
+      },
+      {
+        "causa": "Fumaça",
+        "count": 3
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 3
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 2
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 2
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 2
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas horizontais",
+        "count": 1
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Faróis desregulados",
+        "count": 1
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      }
+    ],
+    "TO": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 122
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 118
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 69
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 59
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 52
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 38
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 35
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 28
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 23
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 20
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 19
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 18
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 18
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 16
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 11
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 10
+      },
+      {
+        "causa": "Chuva",
+        "count": 9
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 7
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 6
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 6
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 5
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 5
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 4
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 4
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 4
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 3
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 3
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 3
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 3
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 2
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 2
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Desvio temporário",
+        "count": 1
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 1
+      }
+    ],
+    "AL": [
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 87
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 77
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 55
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 52
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 48
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 41
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 36
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 35
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 33
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 26
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 26
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 26
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 15
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 13
+      },
+      {
+        "causa": "Chuva",
+        "count": 12
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 11
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 10
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 10
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 9
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 8
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 7
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 7
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 5
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 5
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 5
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 5
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 4
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 4
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 4
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 3
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 3
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 2
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 2
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 2
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 2
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 2
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 2
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização encoberta",
+        "count": 1
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 1
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Modificação proibida",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 1
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 1
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 1
+      }
+    ],
+    "RO": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 208
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 203
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 181
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 98
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 93
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 78
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 72
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 61
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 56
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 41
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 38
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 36
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 35
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 27
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 20
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 17
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 16
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 14
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 13
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 12
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 12
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 12
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 10
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 10
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 9
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 9
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 7
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 7
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 7
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 7
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 6
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 6
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 6
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 6
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 5
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 5
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 5
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 5
+      },
+      {
+        "causa": "Chuva",
+        "count": 4
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 4
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 3
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 3
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Semáforo com defeito",
+        "count": 1
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 1
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 1
+      },
+      {
+        "causa": "Neblina",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 1
+      }
+    ],
+    "CE": [
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 187
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 183
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 161
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 123
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 119
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 80
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 66
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 55
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 54
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 51
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 39
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 35
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 26
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 26
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 25
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 24
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 23
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 22
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 16
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 13
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 13
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 11
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 11
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 9
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 9
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 9
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 8
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 8
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 8
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 7
+      },
+      {
+        "causa": "Chuva",
+        "count": 7
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 7
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 6
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 6
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 5
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 5
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 3
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 3
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 2
+      },
+      {
+        "causa": "Ingestão de substâncias psicoativas pelo condutor",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 1
+      },
+      {
+        "causa": "Declive acentuado",
+        "count": 1
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 1
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 1
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 1
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      }
+    ],
+    "RN": [
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 220
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 197
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 167
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 137
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 124
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 94
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 87
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 67
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 48
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 44
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 37
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 31
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 29
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 26
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 24
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 21
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 21
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 19
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 18
+      },
+      {
+        "causa": "Chuva",
+        "count": 15
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 14
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 13
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 12
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 11
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 10
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 9
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 8
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 8
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 8
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 8
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 7
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 6
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 6
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 5
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 5
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 4
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 4
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 4
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 4
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 4
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 4
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 3
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 3
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Deixar de acionar o farol da motocicleta (ou similar)",
+        "count": 2
+      },
+      {
+        "causa": "Transtornos Mentais (exceto suicidio)",
+        "count": 2
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 2
+      },
+      {
+        "causa": "Problema na suspensão",
+        "count": 1
+      },
+      {
+        "causa": "Faixas de trânsito com largura insuficiente",
+        "count": 1
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 1
+      },
+      {
+        "causa": "Sinalização mal posicionada",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      }
+    ],
+    "DF": [
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 163
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 153
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 147
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 105
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 78
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 54
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 54
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 38
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 27
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 26
+      },
+      {
+        "causa": "Chuva",
+        "count": 23
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 17
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 15
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 13
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 12
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 10
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 10
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 10
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 10
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 9
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 8
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 7
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 7
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 7
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 6
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 5
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 4
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 4
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 4
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 3
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 3
+      },
+      {
+        "causa": "Área urbana sem a presença de local apropriado para a travessia de pedestres",
+        "count": 3
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 3
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 2
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 2
+      },
+      {
+        "causa": "Condutor desrespeitou a iluminação vermelha do semáforo",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 2
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 2
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 1
+      }
+    ],
+    "AM": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 29
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 21
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 15
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 9
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 9
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 8
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 7
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 6
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 5
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 5
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 5
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 4
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 4
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 4
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 4
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 3
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 3
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 3
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 2
+      },
+      {
+        "causa": "Fumaça",
+        "count": 2
+      },
+      {
+        "causa": "Objeto estático sobre o leito carroçável",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 2
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 2
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 2
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 2
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Falta de elemento de contenção que evite a saída do leito carroçável",
+        "count": 1
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 1
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 1
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 1
+      },
+      {
+        "causa": "Participar de racha",
+        "count": 1
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 1
+      }
+    ],
+    "AC": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 45
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 44
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 36
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 24
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 16
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 13
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 11
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 11
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 9
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 8
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 7
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 6
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 5
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 5
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 4
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Afundamento ou ondulação no pavimento",
+        "count": 4
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 4
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 3
+      },
+      {
+        "causa": "Acumulo de óleo sobre o pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 2
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 2
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 2
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 2
+      },
+      {
+        "causa": "Chuva",
+        "count": 2
+      },
+      {
+        "causa": "Pedestre cruzava a pista fora da faixa",
+        "count": 1
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 1
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 1
+      },
+      {
+        "causa": "Suicídio (presumido)",
+        "count": 1
+      },
+      {
+        "causa": "Demais Fenômenos da natureza",
+        "count": 1
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 1
+      },
+      {
+        "causa": "Condutor usando celular",
+        "count": 1
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 1
+      },
+      {
+        "causa": "Falta de acostamento",
+        "count": 1
+      }
+    ],
+    "RR": [
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 14
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 12
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 12
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 9
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 7
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 7
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 7
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 7
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 6
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 6
+      },
+      {
+        "causa": "Pista esburacada",
+        "count": 6
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 5
+      },
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 4
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 4
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 4
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 3
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 3
+      },
+      {
+        "causa": "Carga excessiva e/ou mal acondicionada",
+        "count": 2
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 2
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 2
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 2
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 1
+      },
+      {
+        "causa": "Curva acentuada",
+        "count": 1
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Mal súbito do condutor",
+        "count": 1
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 1
+      },
+      {
+        "causa": "Chuva",
+        "count": 1
+      },
+      {
+        "causa": "Restrição de visibilidade em curvas verticais",
+        "count": 1
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 1
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 1
+      },
+      {
+        "causa": "Trafegar com motocicleta (ou similar) entre as faixas",
+        "count": 1
+      },
+      {
+        "causa": "Problema com o freio",
+        "count": 1
+      }
+    ],
+    "AP": [
+      {
+        "causa": "Acessar a via sem observar a presença dos outros veículos",
+        "count": 23
+      },
+      {
+        "causa": "Ausência de reação do condutor",
+        "count": 20
+      },
+      {
+        "causa": "Reação tardia ou ineficiente do condutor",
+        "count": 16
+      },
+      {
+        "causa": "Transitar na contramão",
+        "count": 15
+      },
+      {
+        "causa": "Condutor deixou de manter distância do veículo da frente",
+        "count": 9
+      },
+      {
+        "causa": "Pista Escorregadia",
+        "count": 7
+      },
+      {
+        "causa": "Ingestão de álcool pelo condutor",
+        "count": 7
+      },
+      {
+        "causa": "Manobra de mudança de faixa",
+        "count": 6
+      },
+      {
+        "causa": "Acesso irregular",
+        "count": 6
+      },
+      {
+        "causa": "Demais falhas mecânicas ou elétricas",
+        "count": 5
+      },
+      {
+        "causa": "Pedestre andava na pista",
+        "count": 4
+      },
+      {
+        "causa": "Velocidade Incompatível",
+        "count": 4
+      },
+      {
+        "causa": "Ultrapassagem Indevida",
+        "count": 4
+      },
+      {
+        "causa": "Acumulo de água sobre o pavimento",
+        "count": 3
+      },
+      {
+        "causa": "Demais falhas na via",
+        "count": 3
+      },
+      {
+        "causa": "Estacionar ou parar em local proibido",
+        "count": 2
+      },
+      {
+        "causa": "Deficiência do Sistema de Iluminação/Sinalização",
+        "count": 2
+      },
+      {
+        "causa": "Condutor Dormindo",
+        "count": 2
+      },
+      {
+        "causa": "Desrespeitar a preferência no cruzamento",
+        "count": 2
+      },
+      {
+        "causa": "Avarias e/ou desgaste excessivo no pneu",
+        "count": 2
+      },
+      {
+        "causa": "Entrada inopinada do pedestre",
+        "count": 2
+      },
+      {
+        "causa": "Acumulo de areia ou detritos sobre o pavimento",
+        "count": 2
+      },
+      {
+        "causa": "Conversão proibida",
+        "count": 2
+      },
+      {
+        "causa": "Acostamento em desnível",
+        "count": 1
+      },
+      {
+        "causa": "Pedestre - Ingestão de álcool/ substâncias psicoativas",
+        "count": 1
+      },
+      {
+        "causa": "Transitar no Acostamento",
+        "count": 1
+      },
+      {
+        "causa": "Animais na Pista",
+        "count": 1
+      },
+      {
+        "causa": "Retorno proibido",
+        "count": 1
+      },
+      {
+        "causa": "Chuva",
+        "count": 1
+      },
+      {
+        "causa": "Iluminação deficiente",
+        "count": 1
+      },
+      {
+        "causa": "Frear bruscamente",
+        "count": 1
+      },
+      {
+        "causa": "Transitar na calçada",
+        "count": 1
+      },
+      {
+        "causa": "Ausência de sinalização",
+        "count": 1
+      },
+      {
+        "causa": "Fumaça",
+        "count": 1
+      }
+    ]
+  },
+  "dias_semana_por_uf": {
+    "ES": [
+      {
+        "dia": "segunda-feira",
+        "count": 323
+      },
+      {
+        "dia": "terça-feira",
+        "count": 342
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 316
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 314
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 370
+      },
+      {
+        "dia": "sábado",
+        "count": 358
+      },
+      {
+        "dia": "domingo",
+        "count": 372
+      }
+    ],
+    "PI": [
+      {
+        "dia": "segunda-feira",
+        "count": 211
+      },
+      {
+        "dia": "terça-feira",
+        "count": 198
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 168
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 202
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 216
+      },
+      {
+        "dia": "sábado",
+        "count": 257
+      },
+      {
+        "dia": "domingo",
+        "count": 268
+      }
+    ],
+    "BA": [
+      {
+        "dia": "segunda-feira",
+        "count": 621
+      },
+      {
+        "dia": "terça-feira",
+        "count": 493
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 534
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 528
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 659
+      },
+      {
+        "dia": "sábado",
+        "count": 637
+      },
+      {
+        "dia": "domingo",
+        "count": 679
+      }
+    ],
+    "SE": [
+      {
+        "dia": "segunda-feira",
+        "count": 94
+      },
+      {
+        "dia": "terça-feira",
+        "count": 87
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 70
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 74
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 93
+      },
+      {
+        "dia": "sábado",
+        "count": 86
+      },
+      {
+        "dia": "domingo",
+        "count": 93
+      }
+    ],
+    "MT": [
+      {
+        "dia": "segunda-feira",
+        "count": 354
+      },
+      {
+        "dia": "terça-feira",
+        "count": 351
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 342
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 351
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 393
+      },
+      {
+        "dia": "sábado",
+        "count": 374
+      },
+      {
+        "dia": "domingo",
+        "count": 389
+      }
+    ],
+    "MG": [
+      {
+        "dia": "segunda-feira",
+        "count": 1293
+      },
+      {
+        "dia": "terça-feira",
+        "count": 1083
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 1204
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 1173
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 1434
+      },
+      {
+        "dia": "sábado",
+        "count": 1503
+      },
+      {
+        "dia": "domingo",
+        "count": 1606
+      }
+    ],
+    "SP": [
+      {
+        "dia": "segunda-feira",
+        "count": 672
+      },
+      {
+        "dia": "terça-feira",
+        "count": 654
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 639
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 682
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 744
+      },
+      {
+        "dia": "sábado",
+        "count": 737
+      },
+      {
+        "dia": "domingo",
+        "count": 755
+      }
+    ],
+    "PR": [
+      {
+        "dia": "segunda-feira",
+        "count": 993
+      },
+      {
+        "dia": "terça-feira",
+        "count": 972
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 997
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 969
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 1182
+      },
+      {
+        "dia": "sábado",
+        "count": 1257
+      },
+      {
+        "dia": "domingo",
+        "count": 1206
+      }
+    ],
+    "MS": [
+      {
+        "dia": "segunda-feira",
+        "count": 231
+      },
+      {
+        "dia": "terça-feira",
+        "count": 227
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 222
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 230
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 271
+      },
+      {
+        "dia": "sábado",
+        "count": 291
+      },
+      {
+        "dia": "domingo",
+        "count": 331
+      }
+    ],
+    "RS": [
+      {
+        "dia": "segunda-feira",
+        "count": 730
+      },
+      {
+        "dia": "terça-feira",
+        "count": 642
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 628
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 730
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 830
+      },
+      {
+        "dia": "sábado",
+        "count": 838
+      },
+      {
+        "dia": "domingo",
+        "count": 808
+      }
+    ],
+    "PA": [
+      {
+        "dia": "segunda-feira",
+        "count": 138
+      },
+      {
+        "dia": "terça-feira",
+        "count": 123
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 112
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 121
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 148
+      },
+      {
+        "dia": "sábado",
+        "count": 151
+      },
+      {
+        "dia": "domingo",
+        "count": 177
+      }
+    ],
+    "GO": [
+      {
+        "dia": "segunda-feira",
+        "count": 422
+      },
+      {
+        "dia": "terça-feira",
+        "count": 425
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 425
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 434
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 472
+      },
+      {
+        "dia": "sábado",
+        "count": 540
+      },
+      {
+        "dia": "domingo",
+        "count": 587
+      }
+    ],
+    "RJ": [
+      {
+        "dia": "segunda-feira",
+        "count": 943
+      },
+      {
+        "dia": "terça-feira",
+        "count": 834
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 841
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 869
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 971
+      },
+      {
+        "dia": "sábado",
+        "count": 998
+      },
+      {
+        "dia": "domingo",
+        "count": 933
+      }
+    ],
+    "PB": [
+      {
+        "dia": "segunda-feira",
+        "count": 294
+      },
+      {
+        "dia": "terça-feira",
+        "count": 246
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 247
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 238
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 300
+      },
+      {
+        "dia": "sábado",
+        "count": 292
+      },
+      {
+        "dia": "domingo",
+        "count": 303
+      }
+    ],
+    "MA": [
+      {
+        "dia": "segunda-feira",
+        "count": 150
+      },
+      {
+        "dia": "terça-feira",
+        "count": 127
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 134
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 156
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 164
+      },
+      {
+        "dia": "sábado",
+        "count": 203
+      },
+      {
+        "dia": "domingo",
+        "count": 204
+      }
+    ],
+    "SC": [
+      {
+        "dia": "segunda-feira",
+        "count": 1139
+      },
+      {
+        "dia": "terça-feira",
+        "count": 1081
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 1044
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 1088
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 1371
+      },
+      {
+        "dia": "sábado",
+        "count": 1355
+      },
+      {
+        "dia": "domingo",
+        "count": 1303
+      }
+    ],
+    "PE": [
+      {
+        "dia": "segunda-feira",
+        "count": 501
+      },
+      {
+        "dia": "terça-feira",
+        "count": 436
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 412
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 427
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 474
+      },
+      {
+        "dia": "sábado",
+        "count": 491
+      },
+      {
+        "dia": "domingo",
+        "count": 489
+      }
+    ],
+    "TO": [
+      {
+        "dia": "segunda-feira",
+        "count": 94
+      },
+      {
+        "dia": "terça-feira",
+        "count": 74
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 113
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 86
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 111
+      },
+      {
+        "dia": "sábado",
+        "count": 136
+      },
+      {
+        "dia": "domingo",
+        "count": 121
+      }
+    ],
+    "AL": [
+      {
+        "dia": "segunda-feira",
+        "count": 92
+      },
+      {
+        "dia": "terça-feira",
+        "count": 89
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 96
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 94
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 95
+      },
+      {
+        "dia": "sábado",
+        "count": 124
+      },
+      {
+        "dia": "domingo",
+        "count": 122
+      }
+    ],
+    "RO": [
+      {
+        "dia": "segunda-feira",
+        "count": 193
+      },
+      {
+        "dia": "terça-feira",
+        "count": 206
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 215
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 167
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 250
+      },
+      {
+        "dia": "sábado",
+        "count": 232
+      },
+      {
+        "dia": "domingo",
+        "count": 220
+      }
+    ],
+    "CE": [
+      {
+        "dia": "segunda-feira",
+        "count": 209
+      },
+      {
+        "dia": "terça-feira",
+        "count": 197
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 186
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 196
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 235
+      },
+      {
+        "dia": "sábado",
+        "count": 242
+      },
+      {
+        "dia": "domingo",
+        "count": 235
+      }
+    ],
+    "RN": [
+      {
+        "dia": "segunda-feira",
+        "count": 233
+      },
+      {
+        "dia": "terça-feira",
+        "count": 202
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 215
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 210
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 234
+      },
+      {
+        "dia": "sábado",
+        "count": 261
+      },
+      {
+        "dia": "domingo",
+        "count": 251
+      }
+    ],
+    "DF": [
+      {
+        "dia": "segunda-feira",
+        "count": 169
+      },
+      {
+        "dia": "terça-feira",
+        "count": 131
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 138
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 143
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 164
+      },
+      {
+        "dia": "sábado",
+        "count": 166
+      },
+      {
+        "dia": "domingo",
+        "count": 145
+      }
+    ],
+    "AM": [
+      {
+        "dia": "segunda-feira",
+        "count": 17
+      },
+      {
+        "dia": "terça-feira",
+        "count": 19
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 20
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 26
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 29
+      },
+      {
+        "dia": "sábado",
+        "count": 28
+      },
+      {
+        "dia": "domingo",
+        "count": 30
+      }
+    ],
+    "AC": [
+      {
+        "dia": "segunda-feira",
+        "count": 38
+      },
+      {
+        "dia": "terça-feira",
+        "count": 48
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 38
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 26
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 47
+      },
+      {
+        "dia": "sábado",
+        "count": 44
+      },
+      {
+        "dia": "domingo",
+        "count": 46
+      }
+    ],
+    "RR": [
+      {
+        "dia": "segunda-feira",
+        "count": 26
+      },
+      {
+        "dia": "terça-feira",
+        "count": 11
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 12
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 14
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 19
+      },
+      {
+        "dia": "sábado",
+        "count": 22
+      },
+      {
+        "dia": "domingo",
+        "count": 31
+      }
+    ],
+    "AP": [
+      {
+        "dia": "segunda-feira",
+        "count": 28
+      },
+      {
+        "dia": "terça-feira",
+        "count": 14
+      },
+      {
+        "dia": "quarta-feira",
+        "count": 16
+      },
+      {
+        "dia": "quinta-feira",
+        "count": 22
+      },
+      {
+        "dia": "sexta-feira",
+        "count": 24
+      },
+      {
+        "dia": "sábado",
+        "count": 18
+      },
+      {
+        "dia": "domingo",
+        "count": 37
+      }
+    ]
+  },
+  "fase_dia_por_uf": {
+    "ES": [
+      {
+        "fase": "Pleno dia",
+        "count": 1369
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 781
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 161
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 84
+      }
+    ],
+    "PI": [
+      {
+        "fase": "Pleno dia",
+        "count": 773
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 613
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 74
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 60
+      }
+    ],
+    "BA": [
+      {
+        "fase": "Pleno dia",
+        "count": 2280
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 1448
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 220
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 203
+      }
+    ],
+    "SE": [
+      {
+        "fase": "Pleno dia",
+        "count": 329
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 231
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 24
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 13
+      }
+    ],
+    "MT": [
+      {
+        "fase": "Pleno dia",
+        "count": 1379
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 850
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 164
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 161
+      }
+    ],
+    "MG": [
+      {
+        "fase": "Pleno dia",
+        "count": 5359
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 2960
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 502
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 475
+      }
+    ],
+    "SP": [
+      {
+        "fase": "Pleno dia",
+        "count": 2725
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 1651
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 265
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 242
+      }
+    ],
+    "PR": [
+      {
+        "fase": "Pleno dia",
+        "count": 4100
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 2670
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 431
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 375
+      }
+    ],
+    "MS": [
+      {
+        "fase": "Pleno dia",
+        "count": 883
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 715
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 104
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 101
+      }
+    ],
+    "RS": [
+      {
+        "fase": "Pleno dia",
+        "count": 2852
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 1799
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 299
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 256
+      }
+    ],
+    "PA": [
+      {
+        "fase": "Pleno dia",
+        "count": 499
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 351
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 63
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 57
+      }
+    ],
+    "GO": [
+      {
+        "fase": "Pleno dia",
+        "count": 1752
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 1186
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 194
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 173
+      }
+    ],
+    "RJ": [
+      {
+        "fase": "Pleno dia",
+        "count": 3572
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 2215
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 311
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 291
+      }
+    ],
+    "PB": [
+      {
+        "fase": "Pleno dia",
+        "count": 1076
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 668
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 120
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 56
+      }
+    ],
+    "MA": [
+      {
+        "fase": "Pleno dia",
+        "count": 586
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 436
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 69
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 47
+      }
+    ],
+    "SC": [
+      {
+        "fase": "Pleno dia",
+        "count": 4673
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 2922
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 452
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 334
+      }
+    ],
+    "PE": [
+      {
+        "fase": "Pleno dia",
+        "count": 1761
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 1193
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 176
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 100
+      }
+    ],
+    "TO": [
+      {
+        "fase": "Pleno dia",
+        "count": 379
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 268
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 46
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 42
+      }
+    ],
+    "AL": [
+      {
+        "fase": "Pleno dia",
+        "count": 362
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 285
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 33
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 32
+      }
+    ],
+    "RO": [
+      {
+        "fase": "Pleno dia",
+        "count": 839
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 470
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 94
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 80
+      }
+    ],
+    "CE": [
+      {
+        "fase": "Pleno dia",
+        "count": 813
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 547
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 76
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 64
+      }
+    ],
+    "RN": [
+      {
+        "fase": "Pleno dia",
+        "count": 882
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 594
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 80
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 50
+      }
+    ],
+    "DF": [
+      {
+        "fase": "Pleno dia",
+        "count": 638
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 310
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 60
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 48
+      }
+    ],
+    "AM": [
+      {
+        "fase": "Pleno dia",
+        "count": 96
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 48
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 14
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 11
+      }
+    ],
+    "AC": [
+      {
+        "fase": "Pleno dia",
+        "count": 166
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 92
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 19
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 10
+      }
+    ],
+    "RR": [
+      {
+        "fase": "Pleno dia",
+        "count": 60
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 57
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 9
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 9
+      }
+    ],
+    "AP": [
+      {
+        "fase": "Pleno dia",
+        "count": 81
+      },
+      {
+        "fase": "Plena Noite",
+        "count": 59
+      },
+      {
+        "fase": "Amanhecer",
+        "count": 10
+      },
+      {
+        "fase": "Anoitecer",
+        "count": 9
+      }
+    ]
+  },
+  "condicao_metereologica_por_uf": {
+    "ES": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1491
+      },
+      {
+        "condicao": "Nublado",
+        "count": 426
+      },
+      {
+        "condicao": "Chuva",
+        "count": 206
+      },
+      {
+        "condicao": "Sol",
+        "count": 192
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 51
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 16
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 11
+      },
+      {
+        "condicao": "Vento",
+        "count": 2
+      }
+    ],
+    "PI": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1170
+      },
+      {
+        "condicao": "Sol",
+        "count": 129
+      },
+      {
+        "condicao": "Nublado",
+        "count": 115
+      },
+      {
+        "condicao": "Chuva",
+        "count": 68
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 19
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 18
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 1
+      }
+    ],
+    "BA": [
+      {
+        "condicao": "Céu Claro",
+        "count": 2719
+      },
+      {
+        "condicao": "Nublado",
+        "count": 593
+      },
+      {
+        "condicao": "Chuva",
+        "count": 352
+      },
+      {
+        "condicao": "Sol",
+        "count": 254
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 123
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 70
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 40
+      }
+    ],
+    "SE": [
+      {
+        "condicao": "Céu Claro",
+        "count": 380
+      },
+      {
+        "condicao": "Nublado",
+        "count": 96
+      },
+      {
+        "condicao": "Chuva",
+        "count": 59
+      },
+      {
+        "condicao": "Sol",
+        "count": 33
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 15
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 14
+      }
+    ],
+    "MT": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1760
+      },
+      {
+        "condicao": "Nublado",
+        "count": 293
+      },
+      {
+        "condicao": "Chuva",
+        "count": 223
+      },
+      {
+        "condicao": "Sol",
+        "count": 138
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 62
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 52
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 24
+      },
+      {
+        "condicao": "Vento",
+        "count": 2
+      }
+    ],
+    "MG": [
+      {
+        "condicao": "Céu Claro",
+        "count": 5648
+      },
+      {
+        "condicao": "Nublado",
+        "count": 1406
+      },
+      {
+        "condicao": "Chuva",
+        "count": 1266
+      },
+      {
+        "condicao": "Sol",
+        "count": 510
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 245
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 123
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 73
+      },
+      {
+        "condicao": "Vento",
+        "count": 25
+      }
+    ],
+    "SP": [
+      {
+        "condicao": "Céu Claro",
+        "count": 2794
+      },
+      {
+        "condicao": "Nublado",
+        "count": 881
+      },
+      {
+        "condicao": "Chuva",
+        "count": 522
+      },
+      {
+        "condicao": "Sol",
+        "count": 296
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 278
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 54
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 40
+      },
+      {
+        "condicao": "Vento",
+        "count": 16
+      },
+      {
+        "condicao": "Granizo",
+        "count": 1
+      },
+      {
+        "condicao": "Neve",
+        "count": 1
+      }
+    ],
+    "PR": [
+      {
+        "condicao": "Céu Claro",
+        "count": 4360
+      },
+      {
+        "condicao": "Nublado",
+        "count": 1274
+      },
+      {
+        "condicao": "Chuva",
+        "count": 904
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 427
+      },
+      {
+        "condicao": "Sol",
+        "count": 423
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 102
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 79
+      },
+      {
+        "condicao": "Vento",
+        "count": 7
+      }
+    ],
+    "MS": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1367
+      },
+      {
+        "condicao": "Nublado",
+        "count": 214
+      },
+      {
+        "condicao": "Chuva",
+        "count": 83
+      },
+      {
+        "condicao": "Sol",
+        "count": 64
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 28
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 27
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 15
+      },
+      {
+        "condicao": "Vento",
+        "count": 5
+      }
+    ],
+    "RS": [
+      {
+        "condicao": "Céu Claro",
+        "count": 3045
+      },
+      {
+        "condicao": "Nublado",
+        "count": 915
+      },
+      {
+        "condicao": "Chuva",
+        "count": 575
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 284
+      },
+      {
+        "condicao": "Sol",
+        "count": 242
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 111
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 30
+      },
+      {
+        "condicao": "Vento",
+        "count": 4
+      }
+    ],
+    "PA": [
+      {
+        "condicao": "Céu Claro",
+        "count": 681
+      },
+      {
+        "condicao": "Nublado",
+        "count": 95
+      },
+      {
+        "condicao": "Sol",
+        "count": 64
+      },
+      {
+        "condicao": "Chuva",
+        "count": 60
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 46
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 16
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 8
+      }
+    ],
+    "GO": [
+      {
+        "condicao": "Céu Claro",
+        "count": 2334
+      },
+      {
+        "condicao": "Nublado",
+        "count": 368
+      },
+      {
+        "condicao": "Chuva",
+        "count": 338
+      },
+      {
+        "condicao": "Sol",
+        "count": 120
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 75
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 44
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 18
+      },
+      {
+        "condicao": "Vento",
+        "count": 7
+      },
+      {
+        "condicao": "Granizo",
+        "count": 1
+      }
+    ],
+    "RJ": [
+      {
+        "condicao": "Céu Claro",
+        "count": 4140
+      },
+      {
+        "condicao": "Nublado",
+        "count": 926
+      },
+      {
+        "condicao": "Chuva",
+        "count": 706
+      },
+      {
+        "condicao": "Sol",
+        "count": 261
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 235
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 69
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 42
+      },
+      {
+        "condicao": "Vento",
+        "count": 10
+      }
+    ],
+    "PB": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1372
+      },
+      {
+        "condicao": "Nublado",
+        "count": 179
+      },
+      {
+        "condicao": "Chuva",
+        "count": 160
+      },
+      {
+        "condicao": "Sol",
+        "count": 145
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 52
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 9
+      },
+      {
+        "condicao": "Vento",
+        "count": 3
+      }
+    ],
+    "MA": [
+      {
+        "condicao": "Céu Claro",
+        "count": 828
+      },
+      {
+        "condicao": "Nublado",
+        "count": 106
+      },
+      {
+        "condicao": "Sol",
+        "count": 86
+      },
+      {
+        "condicao": "Chuva",
+        "count": 67
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 34
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 15
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 2
+      }
+    ],
+    "SC": [
+      {
+        "condicao": "Céu Claro",
+        "count": 4191
+      },
+      {
+        "condicao": "Nublado",
+        "count": 1922
+      },
+      {
+        "condicao": "Chuva",
+        "count": 1123
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 598
+      },
+      {
+        "condicao": "Sol",
+        "count": 347
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 124
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 76
+      }
+    ],
+    "PE": [
+      {
+        "condicao": "Céu Claro",
+        "count": 2327
+      },
+      {
+        "condicao": "Nublado",
+        "count": 355
+      },
+      {
+        "condicao": "Sol",
+        "count": 211
+      },
+      {
+        "condicao": "Chuva",
+        "count": 184
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 97
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 35
+      },
+      {
+        "condicao": "Vento",
+        "count": 18
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 3
+      }
+    ],
+    "TO": [
+      {
+        "condicao": "Céu Claro",
+        "count": 553
+      },
+      {
+        "condicao": "Nublado",
+        "count": 75
+      },
+      {
+        "condicao": "Chuva",
+        "count": 45
+      },
+      {
+        "condicao": "Sol",
+        "count": 36
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 14
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 10
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 2
+      }
+    ],
+    "AL": [
+      {
+        "condicao": "Céu Claro",
+        "count": 485
+      },
+      {
+        "condicao": "Nublado",
+        "count": 95
+      },
+      {
+        "condicao": "Chuva",
+        "count": 76
+      },
+      {
+        "condicao": "Sol",
+        "count": 23
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 21
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 8
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 3
+      },
+      {
+        "condicao": "Vento",
+        "count": 1
+      }
+    ],
+    "RO": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1002
+      },
+      {
+        "condicao": "Nublado",
+        "count": 198
+      },
+      {
+        "condicao": "Sol",
+        "count": 105
+      },
+      {
+        "condicao": "Chuva",
+        "count": 95
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 32
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 26
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 23
+      },
+      {
+        "condicao": "Vento",
+        "count": 2
+      }
+    ],
+    "CE": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1179
+      },
+      {
+        "condicao": "Nublado",
+        "count": 123
+      },
+      {
+        "condicao": "Chuva",
+        "count": 78
+      },
+      {
+        "condicao": "Sol",
+        "count": 71
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 27
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 13
+      },
+      {
+        "condicao": "Vento",
+        "count": 8
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 1
+      }
+    ],
+    "RN": [
+      {
+        "condicao": "Céu Claro",
+        "count": 1219
+      },
+      {
+        "condicao": "Nublado",
+        "count": 137
+      },
+      {
+        "condicao": "Sol",
+        "count": 120
+      },
+      {
+        "condicao": "Chuva",
+        "count": 84
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 29
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 11
+      },
+      {
+        "condicao": "Vento",
+        "count": 6
+      }
+    ],
+    "DF": [
+      {
+        "condicao": "Céu Claro",
+        "count": 733
+      },
+      {
+        "condicao": "Nublado",
+        "count": 149
+      },
+      {
+        "condicao": "Chuva",
+        "count": 97
+      },
+      {
+        "condicao": "Sol",
+        "count": 43
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 24
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 6
+      },
+      {
+        "condicao": "Vento",
+        "count": 3
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 1
+      }
+    ],
+    "AM": [
+      {
+        "condicao": "Céu Claro",
+        "count": 96
+      },
+      {
+        "condicao": "Nublado",
+        "count": 31
+      },
+      {
+        "condicao": "Chuva",
+        "count": 12
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 10
+      },
+      {
+        "condicao": "Sol",
+        "count": 10
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 7
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 3
+      }
+    ],
+    "AC": [
+      {
+        "condicao": "Céu Claro",
+        "count": 196
+      },
+      {
+        "condicao": "Nublado",
+        "count": 32
+      },
+      {
+        "condicao": "Sol",
+        "count": 19
+      },
+      {
+        "condicao": "Chuva",
+        "count": 15
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 14
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 7
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 4
+      }
+    ],
+    "RR": [
+      {
+        "condicao": "Céu Claro",
+        "count": 97
+      },
+      {
+        "condicao": "Nublado",
+        "count": 13
+      },
+      {
+        "condicao": "Chuva",
+        "count": 8
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 7
+      },
+      {
+        "condicao": "Sol",
+        "count": 5
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 4
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 1
+      }
+    ],
+    "AP": [
+      {
+        "condicao": "Céu Claro",
+        "count": 104
+      },
+      {
+        "condicao": "Nublado",
+        "count": 16
+      },
+      {
+        "condicao": "Chuva",
+        "count": 14
+      },
+      {
+        "condicao": "Sol",
+        "count": 12
+      },
+      {
+        "condicao": "Ignorado",
+        "count": 9
+      },
+      {
+        "condicao": "Garoa/Chuvisco",
+        "count": 3
+      },
+      {
+        "condicao": "Nevoeiro/Neblina",
+        "count": 1
+      }
+    ]
+  },
+  "tipo_pista_por_uf": {
+    "ES": [
+      {
+        "pista": "Simples",
+        "count": 1279
+      },
+      {
+        "pista": "Dupla",
+        "count": 763
+      },
+      {
+        "pista": "Múltipla",
+        "count": 353
+      }
+    ],
+    "PI": [
+      {
+        "pista": "Simples",
+        "count": 1022
+      },
+      {
+        "pista": "Dupla",
+        "count": 309
+      },
+      {
+        "pista": "Múltipla",
+        "count": 189
+      }
+    ],
+    "BA": [
+      {
+        "pista": "Simples",
+        "count": 3029
+      },
+      {
+        "pista": "Dupla",
+        "count": 987
+      },
+      {
+        "pista": "Múltipla",
+        "count": 135
+      }
+    ],
+    "SE": [
+      {
+        "pista": "Dupla",
+        "count": 294
+      },
+      {
+        "pista": "Simples",
+        "count": 291
+      },
+      {
+        "pista": "Múltipla",
+        "count": 12
+      }
+    ],
+    "MT": [
+      {
+        "pista": "Simples",
+        "count": 1737
+      },
+      {
+        "pista": "Dupla",
+        "count": 794
+      },
+      {
+        "pista": "Múltipla",
+        "count": 23
+      }
+    ],
+    "MG": [
+      {
+        "pista": "Simples",
+        "count": 4687
+      },
+      {
+        "pista": "Dupla",
+        "count": 4187
+      },
+      {
+        "pista": "Múltipla",
+        "count": 422
+      }
+    ],
+    "SP": [
+      {
+        "pista": "Dupla",
+        "count": 2821
+      },
+      {
+        "pista": "Múltipla",
+        "count": 1258
+      },
+      {
+        "pista": "Simples",
+        "count": 804
+      }
+    ],
+    "PR": [
+      {
+        "pista": "Dupla",
+        "count": 4230
+      },
+      {
+        "pista": "Simples",
+        "count": 3034
+      },
+      {
+        "pista": "Múltipla",
+        "count": 312
+      }
+    ],
+    "MS": [
+      {
+        "pista": "Simples",
+        "count": 1492
+      },
+      {
+        "pista": "Dupla",
+        "count": 308
+      },
+      {
+        "pista": "Múltipla",
+        "count": 3
+      }
+    ],
+    "RS": [
+      {
+        "pista": "Simples",
+        "count": 3092
+      },
+      {
+        "pista": "Dupla",
+        "count": 1702
+      },
+      {
+        "pista": "Múltipla",
+        "count": 412
+      }
+    ],
+    "PA": [
+      {
+        "pista": "Simples",
+        "count": 733
+      },
+      {
+        "pista": "Dupla",
+        "count": 234
+      },
+      {
+        "pista": "Múltipla",
+        "count": 3
+      }
+    ],
+    "GO": [
+      {
+        "pista": "Dupla",
+        "count": 1978
+      },
+      {
+        "pista": "Simples",
+        "count": 1173
+      },
+      {
+        "pista": "Múltipla",
+        "count": 154
+      }
+    ],
+    "RJ": [
+      {
+        "pista": "Dupla",
+        "count": 3130
+      },
+      {
+        "pista": "Simples",
+        "count": 2509
+      },
+      {
+        "pista": "Múltipla",
+        "count": 750
+      }
+    ],
+    "PB": [
+      {
+        "pista": "Dupla",
+        "count": 1162
+      },
+      {
+        "pista": "Simples",
+        "count": 699
+      },
+      {
+        "pista": "Múltipla",
+        "count": 59
+      }
+    ],
+    "MA": [
+      {
+        "pista": "Simples",
+        "count": 854
+      },
+      {
+        "pista": "Dupla",
+        "count": 264
+      },
+      {
+        "pista": "Múltipla",
+        "count": 20
+      }
+    ],
+    "SC": [
+      {
+        "pista": "Simples",
+        "count": 3697
+      },
+      {
+        "pista": "Dupla",
+        "count": 2767
+      },
+      {
+        "pista": "Múltipla",
+        "count": 1917
+      }
+    ],
+    "PE": [
+      {
+        "pista": "Dupla",
+        "count": 1688
+      },
+      {
+        "pista": "Simples",
+        "count": 1133
+      },
+      {
+        "pista": "Múltipla",
+        "count": 409
+      }
+    ],
+    "TO": [
+      {
+        "pista": "Simples",
+        "count": 509
+      },
+      {
+        "pista": "Dupla",
+        "count": 132
+      },
+      {
+        "pista": "Múltipla",
+        "count": 94
+      }
+    ],
+    "AL": [
+      {
+        "pista": "Simples",
+        "count": 433
+      },
+      {
+        "pista": "Dupla",
+        "count": 279
+      }
+    ],
+    "RO": [
+      {
+        "pista": "Simples",
+        "count": 977
+      },
+      {
+        "pista": "Dupla",
+        "count": 436
+      },
+      {
+        "pista": "Múltipla",
+        "count": 70
+      }
+    ],
+    "CE": [
+      {
+        "pista": "Simples",
+        "count": 738
+      },
+      {
+        "pista": "Dupla",
+        "count": 437
+      },
+      {
+        "pista": "Múltipla",
+        "count": 325
+      }
+    ],
+    "RN": [
+      {
+        "pista": "Simples",
+        "count": 745
+      },
+      {
+        "pista": "Dupla",
+        "count": 726
+      },
+      {
+        "pista": "Múltipla",
+        "count": 135
+      }
+    ],
+    "DF": [
+      {
+        "pista": "Dupla",
+        "count": 877
+      },
+      {
+        "pista": "Simples",
+        "count": 107
+      },
+      {
+        "pista": "Múltipla",
+        "count": 72
+      }
+    ],
+    "AM": [
+      {
+        "pista": "Simples",
+        "count": 155
+      },
+      {
+        "pista": "Dupla",
+        "count": 12
+      },
+      {
+        "pista": "Múltipla",
+        "count": 2
+      }
+    ],
+    "AC": [
+      {
+        "pista": "Dupla",
+        "count": 153
+      },
+      {
+        "pista": "Simples",
+        "count": 131
+      },
+      {
+        "pista": "Múltipla",
+        "count": 3
+      }
+    ],
+    "RR": [
+      {
+        "pista": "Simples",
+        "count": 114
+      },
+      {
+        "pista": "Dupla",
+        "count": 19
+      },
+      {
+        "pista": "Múltipla",
+        "count": 2
+      }
+    ],
+    "AP": [
+      {
+        "pista": "Simples",
+        "count": 113
+      },
+      {
+        "pista": "Dupla",
+        "count": 41
+      },
+      {
+        "pista": "Múltipla",
+        "count": 5
+      }
+    ]
+  },
+  "classificacao_por_uf": {
+    "ES": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 2010
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 242
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 142
+      },
+      {
+        "classificacao": "NA",
+        "count": 1
+      }
+    ],
+    "PI": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1101
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 268
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 151
+      }
+    ],
+    "BA": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 3131
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 555
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 465
+      }
+    ],
+    "SE": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 434
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 108
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 55
+      }
+    ],
+    "MT": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1790
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 567
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 197
+      }
+    ],
+    "MG": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 7451
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 1205
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 640
+      }
+    ],
+    "SP": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 3953
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 716
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 214
+      }
+    ],
+    "PR": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 5629
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 1429
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 518
+      }
+    ],
+    "MS": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1268
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 392
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 143
+      }
+    ],
+    "RS": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 3788
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 1125
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 293
+      }
+    ],
+    "PA": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 605
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 189
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 176
+      }
+    ],
+    "GO": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 2403
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 652
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 250
+      }
+    ],
+    "RJ": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 5287
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 798
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 304
+      }
+    ],
+    "PB": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1480
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 322
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 118
+      }
+    ],
+    "MA": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 708
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 243
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 187
+      }
+    ],
+    "SC": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 6768
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 1250
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 363
+      }
+    ],
+    "PE": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 2385
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 558
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 287
+      }
+    ],
+    "TO": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 524
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 121
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 90
+      }
+    ],
+    "AL": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 511
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 115
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 86
+      }
+    ],
+    "RO": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1173
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 212
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 98
+      }
+    ],
+    "CE": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1125
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 206
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 169
+      }
+    ],
+    "RN": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 1263
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 238
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 105
+      }
+    ],
+    "DF": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 845
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 184
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 27
+      }
+    ],
+    "AM": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 100
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 46
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 23
+      }
+    ],
+    "AC": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 229
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 43
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 15
+      }
+    ],
+    "RR": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 84
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 27
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 24
+      }
+    ],
+    "AP": [
+      {
+        "classificacao": "Com Vítimas Feridas",
+        "count": 109
+      },
+      {
+        "classificacao": "Sem Vítimas",
+        "count": 40
+      },
+      {
+        "classificacao": "Com Vítimas Fatais",
+        "count": 10
+      }
+    ]
+  }
+}

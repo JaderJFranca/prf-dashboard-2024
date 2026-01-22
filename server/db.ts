@@ -1,6 +1,6 @@
 import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, users, accidentStats } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -87,6 +87,76 @@ export async function getUserByOpenId(openId: string) {
   const result = await db.select().from(users).where(eq(users.openId, openId)).limit(1);
 
   return result.length > 0 ? result[0] : undefined;
+}
+
+export async function loadAccidentData(data: any): Promise<void> {
+  const db = await getDb();
+  if (!db) {
+    console.warn("[Database] Cannot load accident data: database not available");
+    return;
+  }
+
+  try {
+    for (const [uf, stats] of Object.entries(data.ufs)) {
+      const ufStats = stats as any;
+      await db.insert(accidentStats).values({
+        uf: uf,
+        totalAccidents: ufStats.total_acidentes,
+        totalDeaths: ufStats.total_mortos,
+        totalSevereInjuries: ufStats.total_feridos_graves,
+        totalMinorInjuries: ufStats.total_feridos_leves,
+        totalUnharmed: ufStats.total_ilesos,
+        dataJson: JSON.stringify({
+          causas: data.causas_por_uf[uf] || [],
+          dias: data.dias_semana_por_uf[uf] || [],
+          fases: data.fase_dia_por_uf[uf] || [],
+          condicoes: data.condicao_metereologica_por_uf[uf] || [],
+          pistas: data.tipo_pista_por_uf[uf] || [],
+          classificacoes: data.classificacao_por_uf[uf] || [],
+        }),
+      }).onDuplicateKeyUpdate({
+        set: {
+          totalAccidents: ufStats.total_acidentes,
+          totalDeaths: ufStats.total_mortos,
+          totalSevereInjuries: ufStats.total_feridos_graves,
+          totalMinorInjuries: ufStats.total_feridos_leves,
+          totalUnharmed: ufStats.total_ilesos,
+          dataJson: JSON.stringify({
+            causas: data.causas_por_uf[uf] || [],
+            dias: data.dias_semana_por_uf[uf] || [],
+            fases: data.fase_dia_por_uf[uf] || [],
+            condicoes: data.condicao_metereologica_por_uf[uf] || [],
+            pistas: data.tipo_pista_por_uf[uf] || [],
+            classificacoes: data.classificacao_por_uf[uf] || [],
+          }),
+        },
+      });
+    }
+    console.log("[Database] Accident data loaded successfully");
+  } catch (error) {
+    console.error("[Database] Failed to load accident data:", error);
+    throw error;
+  }
+}
+
+export async function getAccidentStatsFromDb(uf?: string) {
+  const db = await getDb();
+  if (!db) {
+    console.warn("[Database] Cannot get accident stats: database not available");
+    return undefined;
+  }
+
+  try {
+    if (uf) {
+      const result = await db.select().from(accidentStats).where(eq(accidentStats.uf, uf)).limit(1);
+      return result.length > 0 ? result[0] : undefined;
+    } else {
+      return await db.select().from(accidentStats);
+    }
+  } catch (error) {
+    console.error("[Database] Failed to get accident stats:", error);
+    throw error;
+  }
 }
 
 // TODO: add feature queries here as your schema grows.

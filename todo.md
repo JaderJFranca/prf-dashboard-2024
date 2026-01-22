@@ -48,3 +48,8 @@
 
 ## Fase 7: Sincronização com GitHub
 - [x] Sincronizar projeto com alterações remotas do GitHub
+
+## Fase 8: Mapa de Incidências
+- [x] Adicionar gráfico de mapa com incidências de acidentes por estado
+- [x] Implementar escala de cores monoc romática (escuro = mais acidentes, claro = menos)
+- [x] Integrar mapa interativo na aba Visão Geral

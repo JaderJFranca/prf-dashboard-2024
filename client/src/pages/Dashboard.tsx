@@ -242,7 +242,11 @@ export default function Dashboard() {
 
           {/* Aba 1: Visão Geral */}
           <TabsContent value="overview" className="space-y-4">
-            <BrazilMap data={allStats} />
+            <BrazilMap 
+              data={allStats} 
+              onStateSelect={(uf) => setSelectedUf(uf)}
+              selectedUf={selectedUf}
+            />
             
             <Card>
               <CardHeader>

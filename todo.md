@@ -53,3 +53,8 @@
 - [x] Adicionar gráfico de mapa com incidências de acidentes por estado
 - [x] Implementar escala de cores monoc romática (escuro = mais acidentes, claro = menos)
 - [x] Integrar mapa interativo na aba Visão Geral
+
+## Fase 9: Mapa Real do Brasil
+- [x] Substituir mapa SVG por mapa real do Brasil com estados
+- [x] Implementar coloração dos estados por escala monoc romática
+- [x] Adicionar interatividade ao mapa (hover, cliques)

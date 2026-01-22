@@ -4,7 +4,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { BarChart, Bar, LineChart, Line, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ComposedChart } from 'recharts';
 import { AlertCircle, TrendingUp, Users, Heart, Activity } from 'lucide-react';
-import AccidentsMap from '@/components/AccidentsMap';
+import BrazilMap from '@/components/BrazilMap';
 
 interface AccidentData {
   uf: string;
@@ -242,7 +242,7 @@ export default function Dashboard() {
 
           {/* Aba 1: Visão Geral */}
           <TabsContent value="overview" className="space-y-4">
-            <AccidentsMap data={allStats} />
+            <BrazilMap data={allStats} />
             
             <Card>
               <CardHeader>

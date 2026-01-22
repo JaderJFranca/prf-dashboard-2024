@@ -285,16 +285,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-## 📞 Suporte
-
-Para dúvidas, sugestões ou relato de bugs:
-
-- 📧 **Email**: [seu-email@exemplo.com]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/seu-usuario/prf-dashboard-2024/issues)
-- 💬 **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/prf-dashboard-2024/discussions)
-
----
-
 ## 📚 Referências
 
 - [Portal de Dados Abertos - PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)

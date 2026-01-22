@@ -135,12 +135,14 @@ export default function Dashboard() {
   const totalCausas = parsedData.causas.reduce((sum, c) => sum + c.count, 0);
   const causasComPercentual = top10Causas.map(c => ({
     ...c,
+    causaExibicao: c.causa.length > 35 ? c.causa.substring(0, 32) + '...' : c.causa,
+    causaCompleta: c.causa,
     percentual: ((c.count / totalCausas) * 100).toFixed(1),
   }));
 
   const diasSemana = parsedData.dias;
   const fasesDia = parsedData.fases;
-  const condicoes = parsedData.condicoes;
+  const condicoes = parsedData.condicoes.filter(c => c.condicao.toLowerCase() !== 'ignorado');
   const pistas = parsedData.pistas;
   const classificacoes = parsedData.classificacoes;
 
@@ -149,8 +151,8 @@ export default function Dashboard() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="mb-8">
-          <h1 className="text-4xl font-bold text-slate-900 mb-2">Dashboard de Acidentes PRF 2024</h1>
-          <p className="text-slate-600">Análise executiva de acidentes nas rodovias federais brasileiras</p>
+          <h1 className="text-4xl font-bold text-slate-900 mb-2">Análise Executiva de Acidentes - PRF 2024</h1>
+          <p className="text-slate-600">Inteligência operacional de acidentes nas rodovias federais brasileiras</p>
         </div>
 
         {/* Filtro por UF */}
@@ -266,15 +268,31 @@ export default function Dashboard() {
                 <CardDescription>Causas mais frequentes com percentual de participação</CardDescription>
               </CardHeader>
               <CardContent>
-                <ResponsiveContainer width="100%" height={400}>
-                  <BarChart data={causasComPercentual} layout="vertical">
+                <ResponsiveContainer width="100%" height={450}>
+                  <BarChart data={causasComPercentual} layout="vertical" margin={{ left: 320, right: 20 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis type="number" />
-                    <YAxis dataKey="causa" type="category" width={200} />
-                    <Tooltip formatter={(value) => `${value} acidentes`} />
+                    <YAxis dataKey="causaExibicao" type="category" width={310} tick={{ fontSize: 11 }} />
+                    <Tooltip 
+                      formatter={(value) => `${value} acidentes`}
+                      labelFormatter={(label) => {
+                        const item = causasComPercentual.find(c => c.causaExibicao === label);
+                        return item ? item.causaCompleta : label;
+                      }}
+                      contentStyle={{ 
+                        backgroundColor: '#f8fafc', 
+                        border: '1px solid #e2e8f0', 
+                        borderRadius: '8px',
+                        maxWidth: '300px',
+                        wordWrap: 'break-word'
+                      }}
+                    />
                     <Bar dataKey="count" fill="#0f172a" radius={[0, 8, 8, 0]} />
                   </BarChart>
                 </ResponsiveContainer>
+                <div className="mt-4 text-xs text-slate-600 bg-slate-50 p-3 rounded border border-slate-200">
+                  <p><strong>Dica:</strong> Passe o mouse sobre as barras para visualizar a descrição completa de cada causa de acidente.</p>
+                </div>
               </CardContent>
             </Card>
 
@@ -329,7 +347,7 @@ export default function Dashboard() {
             <Card>
               <CardHeader>
                 <CardTitle>Acidentes por Condição Meteorológica</CardTitle>
-                <CardDescription>Influência do clima nos acidentes</CardDescription>
+                <CardDescription>Influência do clima nos acidentes (dados validados)</CardDescription>
               </CardHeader>
               <CardContent>
                 <ResponsiveContainer width="100%" height={300}>
@@ -341,6 +359,9 @@ export default function Dashboard() {
                     <Bar dataKey="count" fill="#334155" radius={[8, 8, 0, 0]} />
                   </BarChart>
                 </ResponsiveContainer>
+                <div className="mt-4 text-xs text-slate-600 bg-slate-50 p-3 rounded border border-slate-200">
+                  <p><strong>Nota:</strong> Registros com condição meteorológica "Ignorado" foram excluídos para garantir análise com dados validados e precisos.</p>
+                </div>
               </CardContent>
             </Card>
 

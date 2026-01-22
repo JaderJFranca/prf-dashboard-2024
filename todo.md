@@ -28,11 +28,16 @@
 - [x] Tornar dashboard público (sem autenticação)
 
 ## Fase 4: Publicação
-- [ ] Validar carregamento de dados
-- [ ] Testar filtros e interatividade
-- [ ] Publicar dashboard
-- [ ] Gerar link público
+- [x] Validar carregamento de dados
+- [x] Testar filtros e interatividade
+- [x] Publicar dashboard
+- [x] Gerar link público
 
 ## Fase 5: Entrega
 - [ ] Apresentar dashboard ao usuário
 - [ ] Fornecer link de acesso público
+
+## Fase 5: Ajustes de Profissionalismo e Clareza
+- [x] Melhorar título do dashboard para algo mais profissional
+- [x] Melhorar visualização das descrições das causas no gráfico Top 10
+- [x] Filtrar e tratar dado "Ignorado" na condição meteorológica

@@ -44,3 +44,4 @@
 
 ## Fase 6: Documentação
 - [x] Criar README.md profissional para GitHub
+- [x] Criar arquivo LICENSE (MIT) oficial

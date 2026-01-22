@@ -254,34 +254,9 @@ pnpm test -- --coverage
 
 ---
 
-## 🚀 Melhorias Futuras
-
-- [ ] Exportação de relatórios em PDF
-- [ ] Comparação entre períodos (mês/trimestre)
-- [ ] Mapa interativo com hotspots geográficos
-- [ ] Análise de tendências com previsões
-- [ ] Integração com API de clima em tempo real
-- [ ] Dashboard mobile otimizado
-- [ ] Alertas de anomalias automáticos
-- [ ] Integração com sistemas de monitoramento
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👥 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ---
 
@@ -293,18 +268,6 @@ Contribuições são bem-vindas! Para contribuir:
 - [Documentação tRPC](https://trpc.io)
 
 ---
-
-## 🙏 Agradecimentos
-
-- **Polícia Rodoviária Federal** pela disponibilização dos dados
-- **Comunidade Open Source** pelas ferramentas e bibliotecas utilizadas
-- **Contribuidores** que ajudam a melhorar este projeto
-
----
-
-<div align="center">
-
-### Desenvolvido com ❤️ para melhorar a segurança nas rodovias brasileiras
 
 **[⬆ Voltar ao topo](#-análise-executiva-de-acidentes---prf-2024)**
 

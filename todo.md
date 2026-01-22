@@ -47,4 +47,4 @@
 - [x] Criar arquivo LICENSE (MIT) oficial
 
 ## Fase 7: Sincronização com GitHub
-- [ ] Sincronizar projeto com alterações remotas do GitHub
+- [x] Sincronizar projeto com alterações remotas do GitHub

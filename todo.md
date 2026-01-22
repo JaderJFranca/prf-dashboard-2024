@@ -41,3 +41,6 @@
 - [x] Melhorar título do dashboard para algo mais profissional
 - [x] Melhorar visualização das descrições das causas no gráfico Top 10
 - [x] Filtrar e tratar dado "Ignorado" na condição meteorológica
+
+## Fase 6: Documentação
+- [x] Criar README.md profissional para GitHub
